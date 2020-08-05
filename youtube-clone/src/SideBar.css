@@ -1,0 +1,13 @@
+.sidebar {
+	flex: 0.2;
+	background-color: rgb(32, 32, 32);
+	max-height: 100%;
+}
+
+.sidebar > hr {
+	height: 1px;
+	border: 0;
+	background-color: #424242;
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
